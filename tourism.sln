@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tourism", "..\..\WebSites\tourism\", "{CE48A717-F2D2-4236-85D1-D203F3B4C0F9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/tourism"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\tourism\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tourism\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tourism"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\tourism\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tourism\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59096"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE48A717-F2D2-4236-85D1-D203F3B4C0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE48A717-F2D2-4236-85D1-D203F3B4C0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
